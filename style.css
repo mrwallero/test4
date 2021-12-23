@@ -1,0 +1,44 @@
+h1 {
+	font-family: arial;
+	text-align: center;
+	color:blue; 
+}
+p {
+	font-size: 25px;
+	margin:  20px 200px 10px 200px;
+	text-align: center;
+	color:blue;
+	line-height: 1.5;
+	font-weight: bold;
+	font-family: colibri;
+}
+span {
+color:red;	
+}
+#textfooter {
+	 height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding: 0;
+	font-size:15px;
+	color: red;
+}
+h2 {
+	font-size: 30px;
+	color:red;
+	text-align: center;
+	font-weight: bold;
+}
+.image-center {
+  display:block;
+  margin: auto;
+}
+a {
+font-size: 20px;
+	color:red;	
+}
+
+
+ 
